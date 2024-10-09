@@ -1,6 +1,6 @@
 # TrialGPT -- An LLM approach for matching patients to their eligible clinical trials.
 
-Head over to "Intuition and Theory" file to get a complete picture of what the algorithm is and how is it implemented in phases.
+Before executing the project, have a good look at the "Intuition and Theory" file to get a complete picture of what the algorithm is and how is it implemented in phases.
 
 Input files to start with -->
 1. corpus.json
