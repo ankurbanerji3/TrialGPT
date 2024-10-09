@@ -1,11 +1,11 @@
+# TrialGPT -- An LLM approach for matching patients to their eligible clinical trials.
+
+Head over to "Intuition and Theory" file to get a complete picture of what the algorithm is and how is it implemented in phases.
+
 Input files to start with -->
 1. corpus.json
 
 I would recommend to first try to run the notebook on platforms like Jupyter or Google Colab since it is quick, easy, and flexible to execute cell by cell.
-
-NOTE: I chose to work with a very small "sample dataset" (not the actual large dataset) due to API token limits, and the patients in queries.json and trials in trial_info.json are taken by random. So it might be the case that some patients are ineligible for all the samples trials. Again, this is just for TESTING.
-
-NOTE: Some unit test files may or may not pass. I've tested and successfully ran half of the unit tests but there are still some issues that I'm currenlty working on in attempts to pass all the unit tests.
 
 ----- Steps to run notebook -----
 Head over to 
