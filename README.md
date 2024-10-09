@@ -8,7 +8,7 @@ Input files to start with -->
 I would recommend to first try to run the notebook on platforms like Jupyter or Google Colab since it is quick, easy, and flexible to execute cell by cell.
 
 ----- Steps to run notebook -----
-Head over to 
+Head over to Code_Notebook.
 
 Prerequisites -->
 1. Run Cell 2 then 3 to generate the list of queries.json.
@@ -28,6 +28,8 @@ The final eligibility results will be stored in the json file "eligibility_resul
 
 
 ----- Steps to run the directory files -----
+Head over to Code_Directory.
+
 Prerequisites -->
 1. Run the files generate_queries.py and generate_trial_info.py to generate queries.json and trial_info.json files.
 2. First step is to run the TrialGPT Retrieval phase to get a json containing the patients and the trials that are relevant according to keywords:
